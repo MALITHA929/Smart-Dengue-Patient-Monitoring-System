@@ -1,0 +1,7 @@
+numpy>=1.26.0
+scipy>=1.13.0
+sounddevice>=0.4.6
+tensorflow>=2.14.0
+librosa>=0.10.0
+matplotlib>=3.8.0
+supabase>=2.3.0
